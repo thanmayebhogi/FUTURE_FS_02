@@ -82,7 +82,7 @@ body {
   height: 50%;
   border-radius: 50%;
   border: 5px solid white;
-  object-fit: contain;
+  object-fit: cover;
 }
 
 .home span {
